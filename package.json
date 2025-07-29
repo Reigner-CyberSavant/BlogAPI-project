@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "expres": "^0.0.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.16.5"
+  },
+  "name": "blog-project",
+  "version": "1.0.0",
+  "main": "blog.index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node blog.index.js",
+    "dev": "nodemon blog.index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
